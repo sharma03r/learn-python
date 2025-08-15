@@ -1,0 +1,5 @@
+print("Greetings of the day, Sir/Ma'am")
+user_city = input("What city did you grow up in?\n")
+user_pet = input("What is the name of your pet?\n")
+print("Here is a cool name for your band!!\n")
+print(user_city + " " + user_pet)
